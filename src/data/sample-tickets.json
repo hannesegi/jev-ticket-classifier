@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Double charged on my subscription",
+    "body": "Hi, I noticed that I was charged twice for my monthly subscription this month. The charges appeared on Oct 3rd and Oct 5th for $49.99 each. Can you please look into this and refund the duplicate charge? My account email is sarah@example.com.",
+    "sender": "sarah@example.com"
+  },
+  {
+    "subject": "App crashes when uploading large files",
+    "body": "Every time I try to upload a file larger than 50MB, the application crashes with an error message saying 'Out of memory'. This started happening after the latest update. I'm using Chrome 120 on Windows 11. This is blocking my team's workflow.",
+    "sender": "mike.dev@example.com"
+  },
+  {
+    "subject": "Interested in Enterprise plan for our team",
+    "body": "Hello! We're a team of 50 people looking to upgrade from the Professional plan. We need custom SSO integration, dedicated support, and advanced analytics. Could you schedule a demo and send us an enterprise quote?",
+    "sender": "cto@bigcorp.com"
+  },
+  {
+    "subject": "WORST SERVICE EVER - I WANT MY MONEY BACK",
+    "body": "This is absolutely unacceptable! Your product has been down for 3 days and nobody responds to my emails. I've been a paying customer for 2 years and this is how you treat loyal customers? I'm furious and I want a full refund immediately or I'm reporting you to the BBB!",
+    "sender": "angry.customer@example.com"
+  },
+  {
+    "subject": "Congratulations! You've won $10,000",
+    "body": "Click here to claim your FREE MONEY prize! You have been selected as the winner of our international lottery. Send your bank details to claim your reward. This offer expires in 24 hours! Act now!",
+    "sender": "totally.legit@spam-domain.com"
+  },
+  {
+    "subject": "How do I export my data?",
+    "body": "Hi there, I'd like to export all my project data as CSV files. I checked the documentation but couldn't find clear instructions. Could you walk me through the process? Thanks in advance!",
+    "sender": "jane.user@example.com"
+  },
+  {
+    "subject": "Bug: Dashboard shows wrong analytics",
+    "body": "The analytics dashboard is showing data from last month instead of the current month. I've tried refreshing and clearing cache but the issue persists. This is frustrating as we need accurate data for our weekly report. Screenshot attached.",
+    "sender": "analyst@example.com"
+  },
+  {
+    "subject": "Want to try the Starter plan",
+    "body": "Hi, I'm interested in your Starter plan. Does it come with a free trial? Also, can I upgrade to Professional later without losing my data? What payment methods do you accept?",
+    "sender": "newuser@startup.io"
+  },
+  {
+    "subject": "Great product - quick question about API",
+    "body": "Love your product! It's been amazing for our workflow. Quick question - is there a rate limit on the API? We're planning to integrate it with our internal tools and want to make sure we won't hit any limits. Thanks!",
+    "sender": "happy.dev@example.com"
+  },
+  {
+    "subject": "Invoice missing from my account",
+    "body": "I need the invoice for September 2024 for our accounting records but it's not showing up in my billing history. Can you please resend it or tell me where I can download it? Our finance team needs it urgently.",
+    "sender": "accounts@company.com"
+  }
+]
